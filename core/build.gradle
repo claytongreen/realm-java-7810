@@ -1,0 +1,15 @@
+plugins {
+    id "com.android.library"
+}
+
+apply plugin: "realm-android"
+
+android {
+    namespace "com.green.realm_7810.core"
+    compileSdk 33
+
+    defaultConfig {
+        minSdk 26
+        targetSdk 33
+    }
+}

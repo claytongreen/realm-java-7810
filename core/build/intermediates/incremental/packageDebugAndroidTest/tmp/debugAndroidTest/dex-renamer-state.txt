@@ -1,0 +1,4 @@
+#Mon Jun 26 11:10:18 PDT 2023
+base.0=C\:\\Users\\clayt\\AndroidStudioProjects\\realm7810\\core\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

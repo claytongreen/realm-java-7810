@@ -1,0 +1,5 @@
+com.green.realm_7810.core.test.core-androidTest-0 C:\Users\clayt\AndroidStudioProjects\realm7810\core\build\generated\res\resValues\androidTest\debug
+com.green.realm_7810.core.test.core-mergeDebugAndroidTestResources-1 C:\Users\clayt\AndroidStudioProjects\realm7810\core\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.green.realm_7810.core.test.core-mergeDebugAndroidTestResources-2 C:\Users\clayt\AndroidStudioProjects\realm7810\core\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.green.realm_7810.core.test.core-merged_res-3 C:\Users\clayt\AndroidStudioProjects\realm7810\core\build\intermediates\merged_res\debugAndroidTest
+com.green.realm_7810.core.test.core-packaged_res-4 C:\Users\clayt\AndroidStudioProjects\realm7810\core\build\intermediates\packaged_res\debug
